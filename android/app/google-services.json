@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66606714356",
+    "project_id": "recuchatapp",
+    "storage_bucket": "recuchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66606714356:android:9eeb8164507be35e8e3da1",
+        "android_client_info": {
+          "package_name": "com.example.recu_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66606714356-s5rb9d7sc1srigit7kduglq6la2h9st9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8iCE-xl0NhrAxTRHDIcFlNmcO9TM7O1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66606714356-s5rb9d7sc1srigit7kduglq6la2h9st9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
